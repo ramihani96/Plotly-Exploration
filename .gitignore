@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+iframe_figures/
 
 # C extensions
 *.so
